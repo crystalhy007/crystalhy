@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Yue</h1>
+<h1 align="left">Hi 👋, I'm Crystal</h1>
 <h3 align="left">A passionate data analyst and a cat lover</h3>
 
 - 🤝 I’m currently looking for **job opportunities in DA/BI**
